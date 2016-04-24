@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Jesse’s 100% raw vegan transformation'
-datePublished: '2016-04-24T09:20:24.441Z'
-dateModified: '2016-04-24T09:20:04.541Z'
+datePublished: '2016-04-24T10:04:23.187Z'
+dateModified: '2016-04-24T09:45:56.609Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-jesses-story.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-24-jesses-story.md
-published: true
+starred: true
 url: jesses-story/index.html
 _type: Blurb
 
@@ -33,6 +33,7 @@ They also advised my mother not to nurse me any longer (thankfully she refused t
 I remember as a small child having no strength in my legs or arms, and feeling very tired and needing lots of sleep. Doctors put me in braces and did all sorts of other things that didn't do me any good. They also recommended ligament surgery to loosen up the tightness in my limbs but fortunately my parents refused to do that.
 
 I was so uninterested in food that I was very underweight; the doctors' solution was to force me to eat dairy, fats and junky, processed foods. Needless to say, this only made things worse and led, among other things, to juvenile diabetes and digestive problems.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b6741fb-f34d-4e35-bbc1-094326787244.jpg)
 
 It boggles my mind to think how hard my parents tried to feed me naturally and how opposed the doctors were to anything that deviated from the Standard American Diet. Not surprisingly, as time went by my health deteriorated further. My parents took me to doctors of all kinds -- from one opinion to the next, and from America to Europe. We went half way around the world looking for a cure, not realising the cure was in the proper nutrition found in our own garden and in the wild.
 
@@ -75,6 +76,7 @@ This way of eating can bring peace to your mind just as it brings peace to your 
 It has definitely been a process of learning the hard way, but I wouldn't change anything. Now that I am well and strong, my calling is to help spread this health message, which needs to be heard all over the world, starting in kindergarten.
 
 People sometimes ask me if I would ever go back to eating cooked food and I tell them that I would never do that. Why would I? Many people do not stick with raw foods and fasting long enough to reap the rewards, but my story is an example of what is possible. Through proper nutrition and fasting my body healed itself, and I believe these practices will do that for anyone willing to do the same.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01e7e2d4-40fc-4738-b7c6-f9ebfd61424c.jpg)
 
 Jesse is the founder of The Whole Lifestyle ([www.thewholelifestyle.com][0]), through which he supports individuals on their raw vegan diet, health, exercise, passion, happiness, peace, emotional aspects and home environment. Jesse is also a co-founder of The Cure Is In The Cause Foundation.
 
@@ -82,14 +84,10 @@ He has over 16 years experience as a healthy, happy 100% raw vegan since 1998, a
 
 Jesse's studies:
 
-**1988** started water fasting and learning 
-from Patricia Bragg. Also, started learning about juicing from the 
-Brags, Jack Lalanne and Linda and Jay Kordich.  
+**1988** started water fasting and learning from Patricia Bragg. Also, started learning about juicing from the Brags, Jack Lalanne and Linda and Jay Kordich.  
 **1997** "Dr. Schulze's Natural Healing Crusade workshop" with Dr. Richard Schulze  
 **1998** David Wolfe's lectures all around CA  
-**1999-2007** All lands and sorts of raw food gatherings, 
-events, festivals and lectures from most of the biggest names in the raw
-food movement.  
+**1999-2007** All lands and sorts of raw food gatherings, events, festivals and lectures from most of the biggest names in the raw food movement.  
 **2000-2001** David Wolfe's "Eden Hot Springs" 2 times and other events all over the USA and Hawaii  
 **2001-2003** Iridology classes  
 **2002-2010** Dr. Douglas Graham's "Health and Fitness Week" 5 times and twice to Costa Rica and other events and meetings.
