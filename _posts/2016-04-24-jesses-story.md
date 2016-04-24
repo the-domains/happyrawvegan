@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T12:02:34.175Z'
-dateModified: '2016-04-24T12:01:39.867Z'
+datePublished: '2016-04-24T12:05:12.349Z'
+dateModified: '2016-04-24T12:04:26.420Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-jesses-story.md
