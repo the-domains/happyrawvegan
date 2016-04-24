@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-24T12:40:04.618Z'
-dateModified: '2016-04-24T12:39:49.219Z'
+datePublished: '2016-04-24T12:44:44.118Z'
+dateModified: '2016-04-24T12:43:06.529Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-24-april-menu.md
 published: true
 authors: []
