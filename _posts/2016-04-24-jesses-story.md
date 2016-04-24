@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Jesse’s 100% raw vegan transformation'
-datePublished: '2016-04-24T10:04:23.187Z'
-dateModified: '2016-04-24T09:45:56.609Z'
+datePublished: '2016-04-24T10:20:58.546Z'
+dateModified: '2016-04-24T10:04:23.443Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-jesses-story.md
