@@ -1,14 +1,16 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'We’ve been raw vegans for a long time, Jesse – since 1998 and Reny – since 2005. And we always manage to eat 100% raw, even while traveling. So we would love to share some tips on how to eat raw on vacation or during your traveling.'
-datePublished: '2016-04-24T09:39:47.367Z'
-dateModified: '2016-04-24T09:36:29.607Z'
+datePublished: '2016-04-24T12:41:27.029Z'
+dateModified: '2016-04-24T12:23:02.519Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-weve-been-raw-vegans-for-a-long-time-jesse-since-1998-an.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-24-weve-been-raw-vegans-for-a-long-time-jesse-since-1998-an.md
-published: true
 url: weve-been-raw-vegans-for-a-long-time-jesse-since-1998-an/index.html
 _type: Article
 
