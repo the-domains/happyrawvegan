@@ -1,12 +1,12 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: 'Jesse’s 100% raw vegan transformation'
-datePublished: '2016-04-24T10:20:58.546Z'
-dateModified: '2016-04-24T10:04:23.443Z'
+description: ''
+datePublished: '2016-04-24T12:02:34.175Z'
+dateModified: '2016-04-24T12:01:39.867Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-jesses-story.md
@@ -19,9 +19,11 @@ publisher:
   favicon: null
 starred: true
 url: jesses-story/index.html
-_type: Blurb
+_type: WebPage
 
 ---
+_****_
+
 _**Jesse's 100% raw vegan transformation**_
 
 An allergic reaction to a vaccine turned me from a healthy baby into a very sick one. This led to 20 years of disability and ill health, until I discovered the raw vegan diet as a young adult.
@@ -91,6 +93,7 @@ Jesse's studies:
 **2000-2001** David Wolfe's "Eden Hot Springs" 2 times and other events all over the USA and Hawaii  
 **2001-2003** Iridology classes  
 **2002-2010** Dr. Douglas Graham's "Health and Fitness Week" 5 times and twice to Costa Rica and other events and meetings.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7eabd86c-a72c-4ab5-85ac-f23a4f0589f5.jpg)
 
 [0]: http://thewholelifestyle.com/
 [1]: http://www.blog.thewholelifestyle.com/raw-vegan-support/
