@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ertyetryert
-datePublished: '2016-04-25T03:02:44.680Z'
-dateModified: '2016-04-25T03:01:35.463Z'
+datePublished: '2016-04-25T03:05:26.931Z'
+dateModified: '2016-04-25T03:03:58.485Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-25-watermelon.md
 published: true
 authors: []
