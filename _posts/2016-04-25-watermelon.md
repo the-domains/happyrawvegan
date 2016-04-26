@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ertyetryert
-datePublished: '2016-04-25T03:05:26.931Z'
-dateModified: '2016-04-25T03:03:58.485Z'
+datePublished: '2016-04-26T11:36:51.637Z'
+dateModified: '2016-04-26T11:36:42.851Z'
 title: ''
 author:
   - name: ''
@@ -21,7 +21,7 @@ publisher:
   favicon: null
 starred: false
 url: watermelon/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e95d1551-ccb0-45f3-8560-5eaecf640a19.jpg)
