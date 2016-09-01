@@ -1,29 +1,41 @@
-name: HappyRawVegan
-favicon: null
-layout_spectrum: 0.14877
-typography_spectrum: 0.90363
 title: Happy Raw Vegan
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.625
+  brandStrength: 0.6875
+  rhythmicContrast: 0.25
   brandColors:
     - '#183641'
     - '#94cfc9'
     - '#20566e'
     - '#cee9f4'
     - '#596b76'
-  brandStrength: 0.6875
   lightness: 0.625
-  saturation: 0.625
-  rhythmicContrast: 0.25
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: HappyRawVegan
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.679377
+layout_spectrum: 0.14877
